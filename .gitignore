@@ -1,0 +1,6 @@
+# Text editor temp files 
+*~ 
+*.swp 
+*.swo
+
+*.pyc
